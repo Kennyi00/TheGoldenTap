@@ -6,7 +6,7 @@ const infoItems = [
   {
     icon: MapPin,
     title: "Location",
-    lines: ["42 Oak Street", "Brooklyn, NY 11201"],
+    lines: ["42 Brooklyn", "Brooklyn, NY 0000"],
   },
   {
     icon: Clock,
@@ -16,7 +16,7 @@ const infoItems = [
   {
     icon: Phone,
     title: "Phone",
-    lines: ["(718) 555-0187"],
+    lines: ["(0000000)"],
   },
   {
     icon: Mail,
